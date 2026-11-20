@@ -1,0 +1,4 @@
+interface:
+  display_name: "cartoon-video-cover（卡通短视频封面）"
+  short_description: "用三个视角建立自己的卡通角色，再按视频内容制作横竖双封面"
+  default_prompt: "用 $cartoon-video-cover 给这条视频做封面，已有角色就沿用，第一次用就先帮我建立自己的角色。"
